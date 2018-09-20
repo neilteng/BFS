@@ -1,2 +1,2 @@
-# BFS
+# BFS and Graph Class
 python
